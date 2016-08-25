@@ -1,8 +1,7 @@
 # hello-world
-Just another repository
 
 Hello Folks!
 
-Testing this out.
+Testing this out, again.
 
 Peace
